@@ -1,0 +1,37 @@
+appTestSection1_autogen/timestamp: \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtFeature.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake \
+	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake \
+	D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake \
+	D:/Qt/projects/QtBasics/TestSection1/CMakeLists.txt \
+	D:/Qt/projects/QtBasics/TestSection1/main.cpp \
+	D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
+	D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/qml_imports/appTestSection1_conf.cmake \
+	D:/Qt/Tools/CMake_64/bin/cmake.exe

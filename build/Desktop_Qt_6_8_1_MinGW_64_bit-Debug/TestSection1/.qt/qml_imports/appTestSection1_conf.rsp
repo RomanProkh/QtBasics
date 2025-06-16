@@ -1,0 +1,14 @@
+-rootPath
+D:/Qt/projects/QtBasics/TestSection1
+-cmake-output
+-output-file
+D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/qml_imports/appTestSection1_conf.cmake
+-importPath
+D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/TestSection1
+-importPath
+D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1
+-importPath
+D:/Qt/6.8.1/mingw_64/qml
+-qrcFiles
+D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/rcc/qmake_TestSection1.qrc
+D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/rcc/appTestSection1_raw_qml_0.qrc

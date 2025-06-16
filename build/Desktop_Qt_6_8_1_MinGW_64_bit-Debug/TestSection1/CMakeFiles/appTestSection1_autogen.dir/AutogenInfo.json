@@ -1,0 +1,165 @@
+{
+	"AUTOGEN_COMMAND_LINE_LENGTH_MAX" : 32000,
+	"BUILD_DIR" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/appTestSection1_autogen",
+	"CMAKE_BINARY_DIR" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/Qt/projects/QtBasics/TestSection1",
+	"CMAKE_EXECUTABLE" : "D:/Qt/Tools/CMake_64/bin/cmake.exe",
+	"CMAKE_LIST_FILES" : 
+	[
+		"D:/Qt/projects/QtBasics/TestSection1/CMakeLists.txt",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersion.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6ConfigVersionImpl.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6Config.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6ConfigExtras.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtInstallPaths.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6Targets.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6VersionlessAliasTargets.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtFeature.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CheckCXXCompilerFlag.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicGitHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicSbomGenerationHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicSbomHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6/Qt6Dependencies.cmake",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake",
+		"D:/Qt/6.8.1/mingw_64/lib/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/qml_imports/appTestSection1_conf.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "D:/Qt/projects/QtBasics",
+	"CROSS_CONFIG" : false,
+	"DEP_FILE" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/appTestSection1_autogen/deps",
+	"DEP_FILE_RULE_NAME" : "appTestSection1_autogen/timestamp",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/appTestSection1_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/appTestSection1_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"MINGW_HAS_SECURE_API=1",
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NEEDS_QMAIN",
+		"QT_NETWORK_LIB",
+		"QT_OPENGL_LIB",
+		"QT_QMLINTEGRATION_LIB",
+		"QT_QMLMETA_LIB",
+		"QT_QMLMODELS_LIB",
+		"QT_QMLWORKERSCRIPT_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"UNICODE",
+		"WIN32",
+		"WIN64",
+		"_ENABLE_EXTENDED_ALIGNED_STORAGE",
+		"_UNICODE",
+		"_WIN64"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/Qt/projects/QtBasics/TestSection1",
+		"D:/Qt/6.8.1/mingw_64/include/QtQml/6.8.1",
+		"D:/Qt/6.8.1/mingw_64/include/QtQml/6.8.1/QtQml",
+		"D:/Qt/6.8.1/mingw_64/include/QtCore/6.8.1",
+		"D:/Qt/6.8.1/mingw_64/include/QtCore/6.8.1/QtCore",
+		"D:/Qt/6.8.1/mingw_64/include/QtCore",
+		"D:/Qt/6.8.1/mingw_64/include",
+		"D:/Qt/6.8.1/mingw_64/mkspecs/win32-g++",
+		"D:/Qt/6.8.1/mingw_64/include/QtQml",
+		"D:/Qt/6.8.1/mingw_64/include/QtQmlIntegration",
+		"D:/Qt/6.8.1/mingw_64/include/QtNetwork",
+		"D:/Qt/6.8.1/mingw_64/include/QtQuick",
+		"D:/Qt/6.8.1/mingw_64/include/QtGui",
+		"D:/Qt/6.8.1/mingw_64/include/QtQmlMeta",
+		"D:/Qt/6.8.1/mingw_64/include/QtQmlModels",
+		"D:/Qt/6.8.1/mingw_64/include/QtQmlWorkerScript",
+		"D:/Qt/6.8.1/mingw_64/include/QtOpenGL",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/x86_64-w64-mingw32",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include/c++/backward",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include",
+		"D:/Qt/Tools/mingw1310_64/lib/gcc/x86_64-w64-mingw32/13.1.0/include-fixed",
+		"D:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : 
+	[
+		"Q_OBJECT",
+		"Q_GADGET",
+		"Q_NAMESPACE",
+		"Q_NAMESPACE_EXPORT",
+		"Q_GADGET_EXPORT",
+		"Q_ENUM_NS"
+	],
+	"MOC_OPTIONS" : [ "--output-json" ],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"D:/Qt/Tools/mingw1310_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"D:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/appTestSection1_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : 
+	[
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/rcc/qrc_appTestSection1_raw_qml_0.cpp",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/rcc/qrc_qmake_TestSection1.cpp",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.rcc/qmlcache/appTestSection1_Main_qml.cpp",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.rcc/qmlcache/appTestSection1_qmlcache_loader.cpp",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/apptestsection1_qmltyperegistrations.cpp"
+	],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/CMakeFiles/appTestSection1_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "D:/Qt/6.8.1/mingw_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 6,
+	"QT_VERSION_MINOR" : 8,
+	"SETTINGS_FILE" : "D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/CMakeFiles/appTestSection1_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[ "D:/Qt/projects/QtBasics/TestSection1/main.cpp", "MU", null ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : 
+	[
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/rcc/qrc_appTestSection1_raw_qml_0.cpp",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.qt/rcc/qrc_qmake_TestSection1.cpp",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.rcc/qmlcache/appTestSection1_Main_qml.cpp",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/.rcc/qmlcache/appTestSection1_qmlcache_loader.cpp",
+		"D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/apptestsection1_qmltyperegistrations.cpp"
+	],
+	"UIC_UI_FILES" : [],
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
