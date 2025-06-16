@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/QtBasics">
-    <file alias="qmldir">D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/QtBasics/qmldir</file>
-  </qresource>
-</RCC>
-

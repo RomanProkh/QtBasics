@@ -1,7 +1,0 @@
-module QtBasics
-typeinfo appQtBasics.qmltypes
-prefer :/qt/qml/QtBasics/
-Main 1.0 Main.qml
-Task_2 1.0 TestSection1/Task_2.qml
-Task_3 1.0 TestSection1/Task_3.qml
-

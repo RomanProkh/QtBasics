@@ -1,5 +1,0 @@
-module TestSection1
-typeinfo appTestSection1.qmltypes
-prefer :/qt/qml/TestSection1/
-Main 1.0 Main.qml
-

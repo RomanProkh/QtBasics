@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="/qt/qml/TestSection1">D:/Qt/projects/QtBasics/build/Desktop_Qt_6_8_1_MinGW_64_bit-Debug/TestSection1/TestSection1</file>
-
-  </qresource>
-</RCC>
