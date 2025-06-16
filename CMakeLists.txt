@@ -17,8 +17,17 @@ qt_add_qml_module(appQtBasics
     VERSION 1.0
     QML_FILES
         Main.qml
-        QML_FILES TestSection1/Task_2.qml
-        QML_FILES TestSection1/Task_3.qml
+        QML_FILES TestSection2/Task_2.qml
+        QML_FILES TestSection2/Task_3.qml
+        QML_FILES TestSection2/Task_4.qml
+        QML_FILES TestSection2/Task_5.qml
+        QML_FILES TestSection2/Task_7.qml
+        QML_FILES TestSection3/Task_7.qml
+        QML_FILES TestSection3/Task_9.qml
+        QML_FILES TestSection4/Qt_Controls_Demo.qml
+        QML_FILES TestSection5/Task_2-4.qml
+        QML_FILES BonusQuestions/WhatHappensOnInnerTapped.qml
+        QML_FILES BonusQuestions/AnimationOnTapped.qml
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
