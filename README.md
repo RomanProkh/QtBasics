@@ -1,6 +1,6 @@
 # Qt Basics – Metropolia UAS (5 ECTS)
 
-This repository contains selected **code snippets**, **configuration guides**, and **sample QML files** used in the *Qt Basics* course at **Metropolia University of Applied Sciences**.
+This repository contains selected **code snippets**, **configuration guides**, and **sample QML files** used in the *Qt Basics* MOOC course. The course is available through the **CampusOnline** system to students at **all** universities of applied sciences in Finland.
 
 ⚠️ **Note:** This is **not** the full course content. The complete course, including theory, assignments, and assessments, is available via **Metropolia's Moodle system**.
 
